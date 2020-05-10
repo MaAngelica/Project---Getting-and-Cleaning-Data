@@ -29,4 +29,5 @@ Uploaded data:
  4. data: 3 previous data set merged
  5. Measure_mean_sd: Extracts only the measurements on the mean and standard deviation for each measurement
  6. Mean_data: data set with the average of each variable for each activity and each subject
+ 7. DataProject: Mean_data to export
  
